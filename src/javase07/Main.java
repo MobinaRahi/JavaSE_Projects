@@ -25,7 +25,7 @@ public class Main {
         normalEmployee1.save();
         NormalEmployee.printAll();
 
-        FinancialEmployee financialEmployee1=new FinancialEmployee("mobina","rahi","0000",1,1);
+        FinancialEmployee financialEmployee1=new FinancialEmployee("m obina","rahi","0000",1,1);
         financialEmployee1.save();
         FinancialEmployee.printAll();
 
