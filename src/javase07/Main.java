@@ -29,7 +29,7 @@ public class Main {
         financialEmployee1.save();
         FinancialEmployee.printAll();
 
-        Cashier cashier1=new Cashier("Mobina ","rahi","0000",1,1,1);
+        Cashier cashier1=new Cashier("M obina ","rahi","0000",1,1,1);
         cashier1.save();
         Cashier.printAll();
     }
